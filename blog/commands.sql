@@ -1,0 +1,1 @@
+insert into blogs (author, url, title, likes) values ('Arnav Rai ', 'www.blog.com', 'Why is HTML so good', 45);
